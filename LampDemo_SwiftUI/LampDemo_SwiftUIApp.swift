@@ -11,7 +11,7 @@ import SwiftUI
 struct LampDemo_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CustomTabBar()
         }
     }
 }
