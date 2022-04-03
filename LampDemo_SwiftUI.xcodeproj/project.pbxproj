@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		041C9ACB27F9D5F500EEC355 /* banner_EP2.png in Resources */ = {isa = PBXBuildFile; fileRef = 041C9ACA27F9D5F500EEC355 /* banner_EP2.png */; };
 		041CFD5127EA2FDE00596380 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041CFD5027EA2FDE00596380 /* CustomTabBar.swift */; };
 		041CFD5327EA3B5D00596380 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041CFD5227EA3B5D00596380 /* Home.swift */; };
 		041D79B227E8EB67003976D5 /* LampDemo_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041D79B127E8EB67003976D5 /* LampDemo_SwiftUIApp.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		041C9ACA27F9D5F500EEC355 /* banner_EP2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banner_EP2.png; sourceTree = "<group>"; };
 		041CFD5027EA2FDE00596380 /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
 		041CFD5227EA3B5D00596380 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		041D79AE27E8EB67003976D5 /* LampDemo_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LampDemo_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -129,6 +131,7 @@
 		04CB179A27F34C98003ECA2C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				041C9ACA27F9D5F500EEC355 /* banner_EP2.png */,
 				04CB179B27F34D45003ECA2C /* banner_Ep1.png */,
 			);
 			path = Resources;
@@ -195,6 +198,7 @@
 				041D79B927E8EB6A003976D5 /* Preview Assets.xcassets in Resources */,
 				04CB179C27F34D45003ECA2C /* banner_Ep1.png in Resources */,
 				041D79B627E8EB6A003976D5 /* Assets.xcassets in Resources */,
+				041C9ACB27F9D5F500EEC355 /* banner_EP2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
