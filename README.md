@@ -4,4 +4,4 @@
 ![](LampDemo_SwiftUI/Resources/banner_Ep1.png)
 
 ## [Lamp Demo Ep2 - Matched Geometry Effect - Speed Code on YouTube](https://youtu.be/cBZahlzfc0o)
-![](LampDemo_SwiftUI/Resources/banner_Ep2.png)
+![](LampDemo_SwiftUI/Resources/banner_EP2.png)
